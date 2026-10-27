@@ -31,7 +31,7 @@ img {
    color: rgb(0, 21, 80);
    padding: 20px;
 }
-#sobre-mi {
+#sobre-mii {
     padding: 20px;
     color: black;
 }
@@ -63,4 +63,21 @@ img {
     background-color: rgb(243, 210, 210);
     border: 1px solid rgb(206, 35, 35);
     border-radius: 10px 10px 10px 10px;
+}
+#enlaces-recomendadoss {
+    padding: 20px;
+    background-color: rgb(176, 241, 187);
+    color: rgb(9, 80, 0);
+}
+.enlace{
+    border-bottom: 10px solid rgb(9, 80, 0);
+}
+.enlacess{
+    padding: 20px;
+    background-color: rgb(210, 243, 210);
+    border: 1px solid rgb(9, 80, 0);
+    border-radius: 10px 10px 10px 10px;
+}
+.enlac{
+    color: rgb(9, 80, 0);
 }
