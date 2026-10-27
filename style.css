@@ -1,0 +1,46 @@
+#header {
+    background-color: rgb(0, 50, 187);
+    padding: 20px;
+  text-align: center;
+  color: white;
+}
+#inicio {
+    background-color: rgb(26, 123, 235);
+    padding: 5px;
+    color: white;
+}
+#sobre-mi {
+    color: white;
+}
+#mis-aficiones {
+    color: white;
+}
+#enlaces-recomendados {
+    color: white;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+#hola {
+    background-color: rgb(206, 234, 243);
+    padding: 20px;
+}
+.saludo {
+   border-bottom: 10px solid rgb(0, 50, 187);
+   color: rgb(0, 21, 80);
+   padding: 20px;
+}
+#sobre-mi {
+    padding: 20px;
+    color: black;
+}
+.cosas {
+    color: rgb(0, 21, 80);
+    padding: 20px;
+    border-bottom: 10px solid rgb(0, 50, 187);
+}
+#aficiones {
+    padding: 20px;
+    background-color: rgb(233, 175, 175);
+}
