@@ -43,6 +43,11 @@ img {
 #aficiones {
     padding: 20px;
     background-color: rgb(233, 175, 175);
+    
+}
+.mis{
+    border-bottom: 10px solid rgb(206, 35, 35);
+    color:rgb(173, 3, 3);
 }
 .container{
     margin: 20px auto 20px auto;
